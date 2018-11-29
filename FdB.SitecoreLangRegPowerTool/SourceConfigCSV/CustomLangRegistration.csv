@@ -1,0 +1,218 @@
+NewCountryName,NewCountryCode,NewEnglishCultureName,BaseFromCultureCode,NewLanguageCultureCode,AddToSitecorePowerShellScript,FallbackLanguageCultureCode,Active
+Armenia,AM,Russian (Armenia),ru-RU,ru-AM,Y,ru-RU,Y
+Azerbaijan,AZ,Russian (Azerbaijan),ru-RU,ru-AZ,Y,ru-RU,Y
+Kazakhstan,KZ,Russian (Kazakhstan),ru-RU,ru-KZ,Y,ru-RU,Y
+Kyrgyzstan,KG,Russian (Kyrgyzstan),ru-RU,ru-KG,Y,ru-RU,Y
+Moldova,MD,Russian (Russian Federation),ru-RU,ru-MD,Y,ru-RU,Y
+Russian Federation,RU,Russian (Moldova),ru-RU,ru-RU,Y,,N
+Tajikistan,TJ,Russian (Tajikistan),ru-RU,ru-TJ,Y,ru-RU,Y
+Turkmenistan,TM,Russian (Turkmenistan),ru-RU,ru-TM,Y,ru-RU,Y
+Ukraine,UA,Russian (Ukraine),ru-RU,ru-UA,Y,ru-RU,Y
+Uzbekistan,UZ,Russian (Uzbekistan),ru-RU,ru-UZ,Y,ru-RU,Y
+Latin America,XL,Spanish (LATM),es-ES,es-XL,Y,,Y
+Mexico,MX,Spanish (Mexico),es-XL,es-MX,Y,es-XL,Y
+Brazil,BR,Spanish (Brazil),es-XL,es-BR,Y,es-XL,Y
+Argentina,AR,Spanish (Argentina),es-AR,es-AR,Y,es-XL,Y
+Belize,BZ,Spanish(Belize),es-XL,es-BZ,Y,es-XL,Y
+Bolivia,BO,Spanish(Bolivia),es-BO,es-BO,Y,es-XL,Y
+Cayman Islands,KY,Spanish(Cayman Islands),es-XL,es-KY,Y,es-XL,Y
+Chile,CL,Spanish(Chile),es-CL,es-CL,Y,es-XL,Y
+Colombia,CO,Spanish(Colombia),es-CO,es-CO,Y,es-XL,Y
+Costa Rica,CR,Spanish(Costa Rica),es-CR,es-CR,Y,es-XL,Y
+Cuba,CU,Spanish(Cuba),es-CU,es-CU,Y,es-XL,Y
+Dominican Republic,DO,Spanish(Dominican Republic),es-DO,es-DO,Y,es-XL,Y
+Ecuador,EC,Spanish(Ecuador),es-EC,es-EC,Y,es-XL,Y
+El Slavador,SV,Spanish(El Slavador),es-SV,es-SV,Y,es-XL,Y
+Guatemala,GT,Spanish(Guatemala),es-GT,es-GT,Y,es-XL,Y
+Guyana,GY,Spanish(Guyana),es-XL,es-GY,Y,es-XL,Y
+Haiti,HT,Spanish(Haiti),es-XL,es-HT,Y,es-XL,Y
+Honduras,HN,Spanish(Honduras),es-HN,es-HN,Y,es-XL,Y
+Jamaica,JM,Spanish(Jamaica),es-XL,es-JM,Y,es-XL,Y
+Nicaragua,NI,Spanish(Nicaragua),es-NI,es-NI,Y,es-XL,Y
+Panama,PA,Spanish(Panama),es-PA,es-PA,Y,es-XL,Y
+Paraguay,PY,Spanish(Paraguay),es-PY,es-PY,Y,es-XL,Y
+Peru,PE,Spanish(Peru),es-PE,es-PE,Y,es-XL,Y
+Trinidad Tobago,TT,Spanish(Trinidad Tobago),es-XL,es-TT,Y,es-XL,Y
+Uruguay,UY,Spanish(Uruguay),es-UY,es-UY,Y,es-XL,Y
+Venezuela,VE,Spanish(Venezuela),es-VE,es-VE,Y,es-XL,Y
+United States,US,Spanish(United States),es-US,es-US,Y,es-XL,Y
+Mongolia,MN,French(Mongolia),fr-CA,fr-MN,Y,fr-CA,Y
+Austria,AT,French(Austria),fr-CA,fr-AT,Y,fr-CA,Y
+Belgium,BE,French(Belgium),fr-BE,fr-BE,Y,fr-CA,Y
+Cyprus,CY,French(Cyprus),fr-CA,fr-CY,Y,fr-CA,Y
+Czech Republic,CZ,French(Czech Republic),fr-CA,fr-CZ,Y,fr-CA,Y
+Denmark,DK,French(Denmark),fr-CA,fr-DK,Y,fr-CA,Y
+Estonia,EE,French(Estonia),fr-CA,fr-EE,Y,fr-CA,Y
+Finland,FI,French(Finland),fr-CA,fr-FI,Y,fr-CA,Y
+France,FR,French(France),fr-FR,fr-FR,Y,fr-CA,Y
+Georgia,GE,French(Georgia),fr-CA,fr-GE,Y,fr-CA,Y
+Germany,DE,French(Germany),fr-CA,fr-DE,Y,fr-CA,Y
+Italy,IT,French(Italy),fr-CA,fr-IT,Y,fr-CA,Y
+Netherlands,NL,French(Netherlands),fr-CA,fr-NL,Y,fr-CA,Y
+Portugal,PT,French(Portugal),fr-CA,fr-PT,Y,fr-CA,Y
+Switzerland,CH,French(Switzerland),fr-CH,fr-CH,Y,fr-CA,Y
+Haiti,HT,French(Haiti),fr-HT,fr-HT,Y,fr-CA,Y
+Algeria,DZ,French(Algeria),fr-CA,fr-DZ,Y,fr-CA,Y
+Egypt,EG,French(Egypt),fr-CA,fr-EG,Y,fr-CA,Y
+Lebanon,LB,French(Lebanon),fr-CA,fr-LB,Y,fr-CA,Y
+Morocco,MA,French(Morocco),fr-MA,fr-MA,Y,fr-CA,Y
+Nigeria,NG,French(Nigeria),fr-CA,fr-NG,Y,fr-CA,Y
+South Africa,ZA,French(South Africa),fr-ZA,fr-ZA,Y,fr-CA,Y
+Tunisia,TN,French(Tunisia),fr-TN,fr-TN,Y,fr-CA,Y
+Canada,CA,French(Canada),fr-CA,fr-CA,Y,,Y
+Armenia, AM,French(Armenia),fr-CA,fr- AM,Y,fr-CA,Y
+Azerbaijan,AZ,French(Azerbaijan),fr-CA,fr-AZ,Y,fr-CA,Y
+Kazakhstan,KZ,French(Kazakhstan),fr-CA,fr-KZ,Y,fr-CA,Y
+Kyrgyzstan,KG,French(Kyrgyzstan),fr-CA,fr-KG,Y,fr-CA,Y
+Moldova,MD,French(Moldova),fr-CA,fr-MD,Y,fr-CA,Y
+Tajikistan,TJ,French(Tajikistan),fr-CA,fr-TJ,Y,fr-CA,Y
+Turkmenistan,TM,French(Turkmenistan),fr-CA,fr-TM,Y,fr-CA,Y
+Ukraine,UA,French(Ukraine),fr-CA,fr-UA,Y,fr-CA,Y
+Uzbekistan,UZ,French(Uzbekistan),fr-CA,fr-UZ,Y,fr-CA,
+Mongolia,MN,German(Mongolia),de-DE,de-MN,Y,de-DE,Y
+Albania,AL,German(Albania),de-DE,de-AL,Y,de-DE,Y
+Austria,AT,German(Austria),de-AT,de-AT,Y,de-DE,Y
+Belgium,BE,German(Belgium),de-DE,de-BE,Y,de-DE,Y
+Bosnia and Herzegovina,BA,German(Bosnia and Herzegovina),de-DE,de-BA,Y,de-DE,Y
+Bulgaria,BG,German(Bulgaria),de-DE,de-BG,Y,de-DE,Y
+Croatia,HR,German(Croatia),de-DE,de-HR,Y,de-DE,Y
+Cyprus,CY,German(Cyprus),de-DE,de-CY,Y,de-DE,Y
+Czech Republic,CZ,German(Czech Republic),de-DE,de-CZ,Y,de-DE,Y
+Denmark,DK,German(Denmark),de-DE,de-DK,Y,de-DE,Y
+Estonia,EE,German(Estonia),de-DE,de-EE,Y,de-DE,Y
+Finland,FI,German(Finland),de-DE,de-FI,Y,de-DE,Y
+France,FR,German(France),de-DE,de-FR,Y,de-DE,Y
+Georgia,GE,German(Georgia),de-DE,de-GE,Y,de-DE,Y
+Germany,DE,German(Germany),de-DE,de-DE,Y,,N
+Greece,GR,German(Greece),de-DE,de-GR,Y,de-DE,Y
+Greenland,GL,German(Greenland),de-DE,de-GL,Y,de-DE,Y
+Hungary,HU,German(Hungary),de-DE,de-HU,Y,de-DE,Y
+Iceland,IS,German(Iceland),de-DE,de-IS,Y,de-DE,Y
+Italy,IT,German(Italy),de-DE,de-IT,Y,de-DE,Y
+Latvia,LV,German(Latvia),de-DE,de-LV,Y,de-DE,Y
+Lithuania,LT,German(Lithuania),de-DE,de-LT,Y,de-DE,Y
+Malta,MT,German(Malta),de-DE,de-MT,Y,de-DE,Y
+Netherlands,NL,German(Netherlands),de-DE,de-NL,Y,de-DE,Y
+Poland,PL,German(Poland),de-DE,de-PL,Y,de-DE,Y
+Romania,RO,German(Romania),de-DE,de-RO,Y,de-DE,Y
+Serbia,RS,German(Serbia),de-DE,de-RS,Y,de-DE,Y
+Slovakia,SK,German(Slovakia),de-DE,de-SK,Y,de-DE,Y
+Slovenia,SI,German(Slovenia),de-DE,de-SI,Y,de-DE,Y
+Switzerland,CH,German(Switzerland),de-CH,de-CH,Y,de-DE,Y
+Turkey,TR,German(Turkey),de-DE,de-TR,Y,de-DE,Y
+Saudi Arabia,SA,German(Saudi Arabia),de-DE,de-SA,Y,de-DE,Y
+South Africa,ZA,German(South Africa),de-DE,de-ZA,Y,de-DE,Y
+Armenia,AM,German(Armenia),de-DE,de-AM,Y,de-DE,Y
+Azerbaijan,AZ,German(Azerbaijan),de-DE,de-AZ,Y,de-DE,Y
+Kazakhstan,KZ,German(Kazakhstan),de-DE,de-KZ,Y,de-DE,Y
+Kyrgyzstan,KG,German(Kyrgyzstan),de-DE,de-KG,Y,de-DE,Y
+Moldova,MD,German(Moldova),de-DE,de-MD,Y,de-DE,Y
+Tajikistan,TJ,German(Tajikistan),de-DE,de-TJ,Y,de-DE,Y
+Turkmenistan,TM,German(Turkmenistan),de-DE,de-TM,Y,de-DE,Y
+Ukraine,UA,German(Ukraine),de-DE,de-UA,Y,de-DE,Y
+Uzbekistan,UZ,German(Uzbekistan),de-DE,de-UZ,Y,de-DE,Y
+China,CN,"Chinese(Simplified,PRC)",zh-CN,zh-CN,Y,,N
+China,CN,English(China),en-CN,en-CN,Y,,
+India,IN,English(India),en-CA,en-IN,Y,en-EN,Y
+Indonesia,ID,English(Indonesia),en-CA,en-ID,Y,en-EN,Y
+Japan,JP,English(Japan),en-CA,en-JP,Y,en-EN,Y
+Malaysia,MY,English(Malaysia),en-CA,en-MY,Y,en-EN,Y
+Mongolia,MN,English(Mongolia),en-CA,en-MN,Y,en-EN,Y
+Pakistan,PK,English(Pakistan),en-CA,en-PK,Y,en-EN,Y
+Philippines,PH,English(Philippines),en-CA,en-PH,Y,en-EN,Y
+Singapore,SG,English(Singapore),en-CA,en-SG,Y,en-EN,Y
+South Korea,KR,English(South Korea),en-CA,en-KR,Y,en-EN,Y
+Taiwan,TW,English(Taiwan),en-CA,en-TW,Y,en-EN,Y
+Thailand,TH,English(Thailand),en-CA,en-TH,Y,en-EN,Y
+Vietnam,VN,English(Vietnam),en-CA,en-VN,Y,en-EN,Y
+Albania,AL,English(Albania),en-CA,en-AL,Y,en-GB,Y
+Austria,AT,English(Austria),en-CA,en-AT,Y,en-GB,Y
+Belgium,BE,English(Belgium),en-CA,en-BE,Y,en-GB,Y
+Bosnia and Herzegovina,BA,English(Bosnia and Herzegovina),en-CA,en-BA,Y,en-GB,Y
+Bulgaria,BG,English(Bulgaria),en-CA,en-BG,Y,en-GB,Y
+Croatia,HR,English(Croatia),en-CA,en-HR,Y,en-GB,Y
+Cyprus,CY,English(Cyprus),en-CA,en-CY,Y,en-GB,Y
+Czech Republic,CZ,English(Czech Republic),en-CA,en-CZ,Y,en-GB,Y
+Denmark,DK,English(Denmark),en-CA,en-DK,Y,en-GB,Y
+Estonia,EE,English(Estonia),en-CA,en-EE,Y,en-GB,Y
+Finland,FI,English(Finland),en-CA,en-FI,Y,en-GB,Y
+France,FR,English(France),en-CA,en-FR,Y,en-GB,Y
+Georgia,GE,English(Georgia),en-CA,en-GE,Y,en-GB,Y
+Germany,DE,English(Germany),en-CA,en-DE,Y,en-GB,Y
+Greece,GR,English(Greece),en-CA,en-GR,Y,en-GB,Y
+Greenland,GL,English(Greenland),en-CA,en-GL,Y,en-GB,Y
+Hungary,HU,English(Hungary),en-CA,en-HU,Y,en-GB,Y
+Iceland,IS,English(Iceland),en-CA,en-IS,Y,en-GB,Y
+Ireland,IE,English(Ireland),en-CA,en-IE,Y,en-GB,Y
+Isle of Man,IM,English(Isle of Man),en-CA,en-IM,Y,en-GB,Y
+Italy,IT,English(Italy),en-CA,en-IT,Y,en-GB,Y
+Kosovo,XK,English(Kosovo),en-CA,en-XK,Y,en-GB,Y
+Latvia,LV,English(Latvia),en-CA,en-LV,Y,en-GB,Y
+Lithuania,LT,English(Lithuania),en-CA,en-LT,Y,en-GB,Y
+Malta,MT,English(Malta),en-CA,en-MT,Y,en-GB,Y
+Netherlands,NL,English(Netherlands),en-CA,en-NL,Y,en-GB,Y
+Norway,NO,English(Norway),en-CA,en-NO,Y,en-GB,Y
+Poland,PL,English(Poland),en-CA,en-PL,Y,en-GB,Y
+Portugal,PT,English(Portugal),en-CA,en-PT,Y,en-GB,Y
+Romania,RO,English(Romania),en-CA,en-RO,Y,en-GB,Y
+Serbia,RS,English(Serbia),en-CA,en-RS,Y,en-GB,Y
+Slovakia,SK,English(Slovakia),en-CA,en-SK,Y,en-GB,Y
+Slovenia,SI,English(Slovenia),en-CA,en-SI,Y,en-GB,Y
+Spain,ES,English(Spain),en-CA,en-ES,Y,en-GB,Y
+Sweden,SE,English(Sweden),en-CA,en-SE,Y,en-GB,Y
+Switzerland,CH,English(Switzerland),en-CA,en-CH,Y,en-GB,Y
+Turkey,TR,English(Turkey),en-CA,en-TR,Y,en-GB,Y
+United Kingdom,GB,English(United Kingdom),en-GB,en-GB,Y,,N
+Mexico,MX,English(Mexico),en-CA,en-MX,Y,en-US,Y
+Brazil,BR,English(Brazil),en-CA,en-BR,Y,en-US,Y
+Argentina,AR,English(Argentina),en-CA,en-AR,Y,en-US,Y
+Belize,BZ,English(Belize),en-BZ,en-BZ,Y,en-US,Y
+Bolivia,BO,English(Bolivia),en-BO,en-BO,Y,en-US,Y
+Cayman Islands,KY,English(Cayman Islands),en-CA,en-KY,Y,en-US,Y
+Chile,CL,English(Chile),en-CA,en-CL,Y,en-US,Y
+Colombia,CO,English(Colombia),en-CA,en-CO,Y,en-US,Y
+Costa Rica,CR,English(Costa Rica),en-CA,en-CR,Y,en-US,Y
+Cuba,CU,English(Cuba),en-CA,en-CU,Y,en-US,Y
+Dominican Republic,DO,English(Dominican Republic),en-CA,en-DO,Y,en-US,Y
+Ecuador,EC,English(Ecuador),en-CA,en-EC,Y,en-US,Y
+El Slavador,SV,English(El Slavador),en-CA,en-SV,Y,en-US,Y
+Guatemala,GT,English(Guatemala),en-CA,en-GT,Y,en-US,Y
+Guyana,GY,English(Guyana),en-CA,en-GY,Y,en-US,Y
+Haiti,HT,English(Haiti),en-CA,en-HT,Y,en-US,Y
+Honduras,HN,English(Honduras),en-CA,en-HN,Y,en-US,Y
+Jamaica,JM,English(Jamaica),en-CA,en-JM,Y,en-US,Y
+Nicaragua,NI,English(Nicaragua),en-CA,en-NI,Y,en-US,Y
+Panama,PA,English(Panama),en-CA,en-PA,Y,en-US,Y
+Paraguay,PY,English(Paraguay),en-CA,en-PY,Y,en-US,Y
+Peru,PE,English(Peru),en-CA,en-PE,Y,en-US,Y
+Trinidad Tobago,TT,English(Trinidad Tobago),en-CA,en-TT,Y,en-US,Y
+Uruguay,UY,English(Uruguay),en-CA,en-UY,Y,en-US,Y
+Venezuela,VE,English(Venezuela),en-CA,en-VE,Y,en-US,Y
+Algeria,DZ,English(Algeria),en-CA,en-DZ,Y,en-EN,Y
+Egypt,EG,English(Egypt),en-CA,en-EG,Y,en-EN,Y
+Israel,IL,English(Israel),en-CA,en-IL,Y,en-EN,Y
+Jordan,JO,English(Jordan),en-CA,en-JO,Y,en-EN,Y
+Kenya,KE,English(Kenya),en-CA,en-KE,Y,en-EN,Y
+Kuwait,KW,English(Kuwait),en-CA,en-KW,Y,en-EN,Y
+Lebanon,LB,English(Lebanon),en-CA,en-LB,Y,en-EN,Y
+Morocco,MA,English(Morocco),en-CA,en-MA,Y,en-EN,Y
+Nigeria,NG,English(Nigeria),en-CA,en-NG,Y,en-EN,Y
+Oman,OM,English(Oman),en-CA,en-OM,Y,en-EN,Y
+Saudi Arabia,SA,English(Saudi Arabia),en-CA,en-SA,Y,en-EN,Y
+South Africa,ZA,English(South Africa),en-CA,en-ZA,Y,en-EN,Y
+Tunisia,TN,English(Tunisia),en-CA,en-TN,Y,en-EN,Y
+United Arab Emirates,AE,English(United Arab Emirates),en-CA,en-AE,Y,en-EN,Y
+Yemen,YE,English(Yemen),en-CA,en-YE,Y,en-EN,Y
+Canada,CA,English(Canada),en-CA,en-CA,Y,,N
+United States,US,English(United States),en-US,en-US,Y,,N
+Australia,AU,English(Australia),en-AU,en-AU,Y,en-EN,Y
+New Zealand,NZ,English(New Zealand),en-NZ,en-NZ,Y,en-EN,Y
+Armenia,AM,English(Armenia),en-CA,en-AM,Y,en-EN,Y
+Azerbaijan,AZ,English(Azerbaijan),en-CA,en-AZ,Y,en-EN,Y
+Kazakhstan,KZ,English(Kazakhstan),en-CA,en-KZ,Y,en-EN,Y
+Kyrgyzstan,KG,English(Kyrgyzstan),en-CA,en-KG,Y,en-EN,Y
+Moldova,MD,English(Moldova),en-CA,en-MD,Y,en-EN,Y
+Tajikistan,TJ,English(Tajikistan),en-CA,en-TJ,Y,en-EN,Y
+Turkmenistan,TM,English(Turkmenistan),en-CA,en-TM,Y,en-EN,Y
+Ukraine,UA,English(Ukraine),en-CA,en-UA,Y,en-EN,Y
+Uzbekistan,UZ,English(Uzbekistan),en-CA,en-UZ,Y,en-EN,Y
