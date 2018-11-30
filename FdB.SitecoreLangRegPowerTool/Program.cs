@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -45,7 +45,7 @@ namespace FdB.SitecoreLangRegPowerTool
 
                 Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory);
 
-                string pathCSVFile = AppDomain.CurrentDomain.BaseDirectory + "CustomLangRegistration_v2.csv";
+                string pathCSVFile = AppDomain.CurrentDomain.BaseDirectory + "CustomLangRegistration.csv";
                 string pathPSTemplate = AppDomain.CurrentDomain.BaseDirectory + "SitecoreAddLanguagesScriptTemplate.ps1";
 
                 if (!File.Exists(pathCSVFile) || !File.Exists(pathPSTemplate))
@@ -124,7 +124,7 @@ namespace FdB.SitecoreLangRegPowerTool
 
                 Console.WriteLine("Generating Sitecore PowerShell Script to add Languages to Sitecore...");
 
-                string scPSScriptPath = AppDomain.CurrentDomain.BaseDirectory + "SitecoreAddCustomLanguages_" + DateTime.Now.ToString() + ".ps1";
+                string scPSScriptPath = AppDomain.CurrentDomain.BaseDirectory + "SitecoreAddCustomLanguages_" + DateTime.Now.ToFileTime() + ".ps1";
                 
 
                 using (StreamWriter sw = new StreamWriter(scPSScriptPath))
