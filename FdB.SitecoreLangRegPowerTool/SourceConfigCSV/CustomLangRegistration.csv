@@ -4,7 +4,7 @@ Azerbaijan,AZ,Russian (Azerbaijan),ru-RU,ru-AZ,Y,ru-RU,Y
 Kazakhstan,KZ,Russian (Kazakhstan),ru-RU,ru-KZ,Y,ru-RU,Y
 Kyrgyzstan,KG,Russian (Kyrgyzstan),ru-RU,ru-KG,Y,ru-RU,Y
 Moldova,MD,Russian (Russian Federation),ru-RU,ru-MD,Y,ru-RU,Y
-Russian Federation,RU,Russian (Moldova),ru-RU,ru-RU,Y,,N
+Russian Federation,RU,Russian (Moldova),ru-RU,ru-RU,Y,,Y
 Tajikistan,TJ,Russian (Tajikistan),ru-RU,ru-TJ,Y,ru-RU,Y
 Turkmenistan,TM,Russian (Turkmenistan),ru-RU,ru-TM,Y,ru-RU,Y
 Ukraine,UA,Russian (Ukraine),ru-RU,ru-UA,Y,ru-RU,Y
@@ -12,33 +12,34 @@ Uzbekistan,UZ,Russian (Uzbekistan),ru-RU,ru-UZ,Y,ru-RU,Y
 Latin America,XL,Spanish (LATM),es-ES,es-XL,Y,,Y
 Mexico,MX,Spanish (Mexico),es-XL,es-MX,Y,es-XL,Y
 Brazil,BR,Spanish (Brazil),es-XL,es-BR,Y,es-XL,Y
-Argentina,AR,Spanish (Argentina),es-AR,es-AR,Y,es-XL,Y
+Argentina,AR,Spanish (Argentina),es-XL,es-AR,Y,es-XL,Y
 Belize,BZ,Spanish(Belize),es-XL,es-BZ,Y,es-XL,Y
-Bolivia,BO,Spanish(Bolivia),es-BO,es-BO,Y,es-XL,Y
+Bolivia,BO,Spanish(Bolivia),es-XL,es-BO,Y,es-XL,Y
 Cayman Islands,KY,Spanish(Cayman Islands),es-XL,es-KY,Y,es-XL,Y
-Chile,CL,Spanish(Chile),es-CL,es-CL,Y,es-XL,Y
-Colombia,CO,Spanish(Colombia),es-CO,es-CO,Y,es-XL,Y
-Costa Rica,CR,Spanish(Costa Rica),es-CR,es-CR,Y,es-XL,Y
-Cuba,CU,Spanish(Cuba),es-CU,es-CU,Y,es-XL,Y
-Dominican Republic,DO,Spanish(Dominican Republic),es-DO,es-DO,Y,es-XL,Y
-Ecuador,EC,Spanish(Ecuador),es-EC,es-EC,Y,es-XL,Y
-El Slavador,SV,Spanish(El Slavador),es-SV,es-SV,Y,es-XL,Y
-Guatemala,GT,Spanish(Guatemala),es-GT,es-GT,Y,es-XL,Y
+Chile,CL,Spanish(Chile),es-XL,es-CL,Y,es-XL,Y
+Colombia,CO,Spanish(Colombia),es-XL,es-CO,Y,es-XL,Y
+Costa Rica,CR,Spanish(Costa Rica),es-XL,es-CR,Y,es-XL,Y
+Cuba,CU,Spanish(Cuba),es-XL,es-CU,Y,es-XL,Y
+Dominican Republic,DO,Spanish(Dominican Republic),es-XL,es-DO,Y,es-XL,Y
+Ecuador,EC,Spanish(Ecuador),es-XL,es-EC,Y,es-XL,Y
+El Slavador,SV,Spanish(El Slavador),es-XL,es-SV,Y,es-XL,Y
+Guatemala,GT,Spanish(Guatemala),es-XL,es-GT,Y,es-XL,Y
 Guyana,GY,Spanish(Guyana),es-XL,es-GY,Y,es-XL,Y
 Haiti,HT,Spanish(Haiti),es-XL,es-HT,Y,es-XL,Y
-Honduras,HN,Spanish(Honduras),es-HN,es-HN,Y,es-XL,Y
+Honduras,HN,Spanish(Honduras),es-XL,es-HN,Y,es-XL,Y
 Jamaica,JM,Spanish(Jamaica),es-XL,es-JM,Y,es-XL,Y
-Nicaragua,NI,Spanish(Nicaragua),es-NI,es-NI,Y,es-XL,Y
-Panama,PA,Spanish(Panama),es-PA,es-PA,Y,es-XL,Y
-Paraguay,PY,Spanish(Paraguay),es-PY,es-PY,Y,es-XL,Y
-Peru,PE,Spanish(Peru),es-PE,es-PE,Y,es-XL,Y
+Nicaragua,NI,Spanish(Nicaragua),es-XL,es-NI,Y,es-XL,Y
+Panama,PA,Spanish(Panama),es-XL,es-PA,Y,es-XL,Y
+Paraguay,PY,Spanish(Paraguay),es-XL,es-PY,Y,es-XL,Y
+Peru,PE,Spanish(Peru),es-XL,es-PE,Y,es-XL,Y
 Trinidad Tobago,TT,Spanish(Trinidad Tobago),es-XL,es-TT,Y,es-XL,Y
-Uruguay,UY,Spanish(Uruguay),es-UY,es-UY,Y,es-XL,Y
-Venezuela,VE,Spanish(Venezuela),es-VE,es-VE,Y,es-XL,Y
-United States,US,Spanish(United States),es-US,es-US,Y,es-XL,Y
+Uruguay,UY,Spanish(Uruguay),es-XL,es-UY,Y,es-XL,Y
+Venezuela,VE,Spanish(Venezuela),es-XL,es-VE,Y,es-XL,Y
+United States,US,Spanish(United States),es-XL,es-US,Y,es-XL,Y
+,,,,,Y,,
 Mongolia,MN,French(Mongolia),fr-CA,fr-MN,Y,fr-CA,Y
 Austria,AT,French(Austria),fr-CA,fr-AT,Y,fr-CA,Y
-Belgium,BE,French(Belgium),fr-BE,fr-BE,Y,fr-CA,Y
+Belgium,BE,French(Belgium),fr-CA,fr-BE,Y,fr-CA,Y
 Cyprus,CY,French(Cyprus),fr-CA,fr-CY,Y,fr-CA,Y
 Czech Republic,CZ,French(Czech Republic),fr-CA,fr-CZ,Y,fr-CA,Y
 Denmark,DK,French(Denmark),fr-CA,fr-DK,Y,fr-CA,Y
@@ -50,15 +51,15 @@ Germany,DE,French(Germany),fr-CA,fr-DE,Y,fr-CA,Y
 Italy,IT,French(Italy),fr-CA,fr-IT,Y,fr-CA,Y
 Netherlands,NL,French(Netherlands),fr-CA,fr-NL,Y,fr-CA,Y
 Portugal,PT,French(Portugal),fr-CA,fr-PT,Y,fr-CA,Y
-Switzerland,CH,French(Switzerland),fr-CH,fr-CH,Y,fr-CA,Y
-Haiti,HT,French(Haiti),fr-HT,fr-HT,Y,fr-CA,Y
+Switzerland,CH,French(Switzerland),fr-CA,fr-CH,Y,fr-CA,Y
+Haiti,HT,French(Haiti),fr-CA,fr-HT,Y,fr-CA,Y
 Algeria,DZ,French(Algeria),fr-CA,fr-DZ,Y,fr-CA,Y
 Egypt,EG,French(Egypt),fr-CA,fr-EG,Y,fr-CA,Y
 Lebanon,LB,French(Lebanon),fr-CA,fr-LB,Y,fr-CA,Y
-Morocco,MA,French(Morocco),fr-MA,fr-MA,Y,fr-CA,Y
+Morocco,MA,French(Morocco),fr-CA,fr-MA,Y,fr-CA,Y
 Nigeria,NG,French(Nigeria),fr-CA,fr-NG,Y,fr-CA,Y
-South Africa,ZA,French(South Africa),fr-ZA,fr-ZA,Y,fr-CA,Y
-Tunisia,TN,French(Tunisia),fr-TN,fr-TN,Y,fr-CA,Y
+South Africa,ZA,French(South Africa),fr-CA,fr-ZA,Y,fr-CA,Y
+Tunisia,TN,French(Tunisia),fr-CA,fr-TN,Y,fr-CA,Y
 Canada,CA,French(Canada),fr-CA,fr-CA,Y,,Y
 Armenia, AM,French(Armenia),fr-CA,fr- AM,Y,fr-CA,Y
 Azerbaijan,AZ,French(Azerbaijan),fr-CA,fr-AZ,Y,fr-CA,Y
@@ -69,9 +70,10 @@ Tajikistan,TJ,French(Tajikistan),fr-CA,fr-TJ,Y,fr-CA,Y
 Turkmenistan,TM,French(Turkmenistan),fr-CA,fr-TM,Y,fr-CA,Y
 Ukraine,UA,French(Ukraine),fr-CA,fr-UA,Y,fr-CA,Y
 Uzbekistan,UZ,French(Uzbekistan),fr-CA,fr-UZ,Y,fr-CA,
+,,,,,Y,,
 Mongolia,MN,German(Mongolia),de-DE,de-MN,Y,de-DE,Y
 Albania,AL,German(Albania),de-DE,de-AL,Y,de-DE,Y
-Austria,AT,German(Austria),de-AT,de-AT,Y,de-DE,Y
+Austria,AT,German(Austria),de-DE,de-AT,Y,de-DE,Y
 Belgium,BE,German(Belgium),de-DE,de-BE,Y,de-DE,Y
 Bosnia and Herzegovina,BA,German(Bosnia and Herzegovina),de-DE,de-BA,Y,de-DE,Y
 Bulgaria,BG,German(Bulgaria),de-DE,de-BG,Y,de-DE,Y
@@ -98,7 +100,7 @@ Romania,RO,German(Romania),de-DE,de-RO,Y,de-DE,Y
 Serbia,RS,German(Serbia),de-DE,de-RS,Y,de-DE,Y
 Slovakia,SK,German(Slovakia),de-DE,de-SK,Y,de-DE,Y
 Slovenia,SI,German(Slovenia),de-DE,de-SI,Y,de-DE,Y
-Switzerland,CH,German(Switzerland),de-CH,de-CH,Y,de-DE,Y
+Switzerland,CH,German(Switzerland),de-DE,de-CH,Y,de-DE,Y
 Turkey,TR,German(Turkey),de-DE,de-TR,Y,de-DE,Y
 Saudi Arabia,SA,German(Saudi Arabia),de-DE,de-SA,Y,de-DE,Y
 South Africa,ZA,German(South Africa),de-DE,de-ZA,Y,de-DE,Y
@@ -111,8 +113,10 @@ Tajikistan,TJ,German(Tajikistan),de-DE,de-TJ,Y,de-DE,Y
 Turkmenistan,TM,German(Turkmenistan),de-DE,de-TM,Y,de-DE,Y
 Ukraine,UA,German(Ukraine),de-DE,de-UA,Y,de-DE,Y
 Uzbekistan,UZ,German(Uzbekistan),de-DE,de-UZ,Y,de-DE,Y
-China,CN,"Chinese(Simplified,PRC)",zh-CN,zh-CN,Y,,N
-China,CN,English(China),en-CN,en-CN,Y,,
+,,,,,Y,,
+China,CN,"Chinese(Simplified,PRC)",en-CA,zh-CN,Y,,N
+,,,,,Y,,
+China,CN,English(China),en-CA,en-CN,Y,,
 India,IN,English(India),en-CA,en-IN,Y,en-EN,Y
 Indonesia,ID,English(Indonesia),en-CA,en-ID,Y,en-EN,Y
 Japan,JP,English(Japan),en-CA,en-JP,Y,en-EN,Y
@@ -162,12 +166,12 @@ Spain,ES,English(Spain),en-CA,en-ES,Y,en-GB,Y
 Sweden,SE,English(Sweden),en-CA,en-SE,Y,en-GB,Y
 Switzerland,CH,English(Switzerland),en-CA,en-CH,Y,en-GB,Y
 Turkey,TR,English(Turkey),en-CA,en-TR,Y,en-GB,Y
-United Kingdom,GB,English(United Kingdom),en-GB,en-GB,Y,,N
+United Kingdom,GB,English(United Kingdom),en-CA,en-GB,Y,,N
 Mexico,MX,English(Mexico),en-CA,en-MX,Y,en-US,Y
 Brazil,BR,English(Brazil),en-CA,en-BR,Y,en-US,Y
 Argentina,AR,English(Argentina),en-CA,en-AR,Y,en-US,Y
-Belize,BZ,English(Belize),en-BZ,en-BZ,Y,en-US,Y
-Bolivia,BO,English(Bolivia),en-BO,en-BO,Y,en-US,Y
+Belize,BZ,English(Belize),en-CA,en-BZ,Y,en-US,Y
+Bolivia,BO,English(Bolivia),en-CA,en-BO,Y,en-US,Y
 Cayman Islands,KY,English(Cayman Islands),en-CA,en-KY,Y,en-US,Y
 Chile,CL,English(Chile),en-CA,en-CL,Y,en-US,Y
 Colombia,CO,English(Colombia),en-CA,en-CO,Y,en-US,Y
@@ -204,9 +208,9 @@ Tunisia,TN,English(Tunisia),en-CA,en-TN,Y,en-EN,Y
 United Arab Emirates,AE,English(United Arab Emirates),en-CA,en-AE,Y,en-EN,Y
 Yemen,YE,English(Yemen),en-CA,en-YE,Y,en-EN,Y
 Canada,CA,English(Canada),en-CA,en-CA,Y,,N
-United States,US,English(United States),en-US,en-US,Y,,N
-Australia,AU,English(Australia),en-AU,en-AU,Y,en-EN,Y
-New Zealand,NZ,English(New Zealand),en-NZ,en-NZ,Y,en-EN,Y
+United States,US,English(United States),en-CA,en-US,Y,,N
+Australia,AU,English(Australia),en-CA,en-AU,Y,en-EN,Y
+New Zealand,NZ,English(New Zealand),en-CA,en-NZ,Y,en-EN,Y
 Armenia,AM,English(Armenia),en-CA,en-AM,Y,en-EN,Y
 Azerbaijan,AZ,English(Azerbaijan),en-CA,en-AZ,Y,en-EN,Y
 Kazakhstan,KZ,English(Kazakhstan),en-CA,en-KZ,Y,en-EN,Y
